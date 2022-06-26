@@ -1,0 +1,20 @@
+[
+  {
+    "id": "place.10319258893550640",
+    "nombre": "Albacete, Provincia de Albacete, España",
+    "lon": -1.855915,
+    "lat": 38.995092
+  },
+  {
+    "id": "place.10507444814919450",
+    "nombre": "Valencia, Provincia de Valencia, España",
+    "lon": -0.376335,
+    "lat": 39.469707
+  },
+  {
+    "id": "place.inventado",
+    "nombre": "Pinedo, Provincia de Valencia, España",
+    "lon": -0.376335,
+    "lat": 39.469707
+  }
+]
