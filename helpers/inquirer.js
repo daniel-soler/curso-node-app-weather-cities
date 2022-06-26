@@ -90,17 +90,6 @@ const listarLugares = async ( lugares ) => {
 
 }
 
-const confirmar = async ( mensaje ) => {
-
-  const { ok } = await inquirer.prompt({
-    type: "confirm",
-    name: "ok",
-    message: mensaje
-  })
-
-  return ok
-}
-
 
 
 module.exports = {

@@ -8,7 +8,6 @@ class Busquedas  {
   dbPath = "./db/database.json";
 
   constructor( ciudad ) {
-    //TODO: LEER DB SI EXISTE
 
     try {
       this.leerDB()
